@@ -1,0 +1,46 @@
+RedmineGit
+Fork following repository
+https://github.com/bedimcode/responsive-travel-website
+Clone the folk repository in your system.
+Remove home section div from index.html 
+css→style.css add following line of code
+p
+
+{
+
+color:blue;
+
+}
+
+5. Commit locally index.html.
+
+5. Go to the remote 
+
+ Open readme.md file and append Welcome to our Travel site at the end of file.
+ Open index.html file make changes in line number 59 change src attribute value to home2.jpg. 
+6.  Now move to the local system and push the index.html commit to the remote.
+
+May be you will get some conflict. resolve the conflict so that only local changes of removing the home section should go to the remote. 
+7. Now commit style.css changes to the remote.
+
+8. Create a new branch development from the main branch.
+
+9. create one hello.txt file and add some dummy text in that. 
+
+10. remove following line of code from this file css→style.css
+
+p
+
+{
+
+color:blue;
+
+}
+
+10. Commit and push these changes to the remote in the development branch.
+
+11. merge development branch in the master branch. 
+
+ 
+
+ 
